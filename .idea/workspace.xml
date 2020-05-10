@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZkBC5O9Oe3q87k1FrYxr1onKFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,14 +36,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Leetcode206" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxProfit2">
+  <component name="RunManager" selected="Application.Pow">
     <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode121.MaxProfit" />
       <module name="Leetcode" />
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode206.ReverseList" />
+    <configuration name="MaximumSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode221.MaximumSquare" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode206.*" />
+          <option name="PATTERN" value="Leetcode221.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode146.test" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode50.Pow" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode146.*" />
+          <option name="PATTERN" value="Leetcode50.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode155.test" />
+    <configuration name="mySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode69.mySqrt" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode155.*" />
+          <option name="PATTERN" value="Leetcode69.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pow" />
+        <item itemvalue="Application.mySqrt" />
+        <item itemvalue="Application.MaximumSquare" />
         <item itemvalue="Application.MaxProfit2" />
         <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.ReverseList" />
       </list>
     </recent_temporary>
   </component>
@@ -128,33 +132,49 @@
       <workItem from="1585373085746" duration="5616000" />
       <workItem from="1585396607649" duration="973000" />
       <workItem from="1585570706383" duration="14041000" />
+      <workItem from="1588906031827" duration="2177000" />
+      <workItem from="1588958021303" duration="2094000" />
+      <workItem from="1589133953653" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="193" key="FileChooserDialogImpl" timestamp="1585397654796">
+    <state x="361" y="71" key="#Notifications" timestamp="1588906334999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="627" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585397654796" />
-    <state width="894" height="143" key="GridCell.Tab.0.bottom" timestamp="1585622582236">
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1588906334999" />
+    <state x="627" y="193" key="FileChooserDialogImpl" timestamp="1588906272923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585622582236" />
-    <state width="894" height="143" key="GridCell.Tab.0.center" timestamp="1585622582236">
+    <state x="627" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588906272923" />
+    <state width="1537" height="228" key="GridCell.Tab.0.bottom" timestamp="1589135086106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585622582236" />
-    <state width="894" height="143" key="GridCell.Tab.0.left" timestamp="1585622582236">
+    <state width="1537" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589135086106" />
+    <state width="1537" height="228" key="GridCell.Tab.0.center" timestamp="1589135086106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585622582236" />
-    <state width="894" height="143" key="GridCell.Tab.0.right" timestamp="1585622582236">
+    <state width="1537" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589135086106" />
+    <state width="1537" height="228" key="GridCell.Tab.0.left" timestamp="1589135086106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585622582236" />
+    <state width="1537" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589135086106" />
+    <state width="1537" height="228" key="GridCell.Tab.0.right" timestamp="1589135086106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589135086106" />
+    <state x="462" y="98" key="SettingsEditor" timestamp="1588906609231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="98" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588906609231" />
     <state x="624" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1585396788135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -163,9 +183,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="256" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585397657328" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585574903930">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589134924285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585574903930" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589134924285" />
   </component>
 </project>
